@@ -1,10 +1,11 @@
 # UX-Case-Study
 Used many fundamentals of UI/UX design such as 
-•	User persona 
+•	User persona
 •	Customer Journey map 
-•	Wireframing
+•	Wireframing/n
+•	Empathy mapping
 •	Research on current state of UX  
-•	Suggesting improvement using wireframing concepts using photoshop, Color Theory and making a website using HTML, CSS and JavaScript.
+•	Suggesting improvement using wireframing concepts using photoshop, Color Theory, Typography, Gestalt Principle and making a website using HTML, CSS and JavaScript.
 
 
 
