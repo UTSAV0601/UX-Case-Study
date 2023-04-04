@@ -1,5 +1,5 @@
 # UX-Case-Study
-Used many fundamentals of UI/UX design such as 
+Used many fundamentals of UI/UX design such as
 •	User persona
 •	Customer Journey map 
 •	Wireframing/n
