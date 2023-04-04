@@ -1,3 +1,4 @@
+[Pedestrian Accessibility - Google Maps UX Case Study.pdf](https://github.com/UTSAV0601/UX-Case-Study/files/11152325/Pedestrian.Accessibility.-.Google.Maps.UX.Case.Study.pdf)
 # UX-Case-Study
 Used many fundamentals of UI/UX design such as
 •	User persona
